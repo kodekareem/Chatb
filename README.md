@@ -19,6 +19,3 @@ We Will try to download the template and make few changes then create our own re
 ## Extra Resources
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Create New Personal Token](https://github.com/settings/tokens)
-"# Chatb" 
-"# Chatb" 
-"# Chatb" 
